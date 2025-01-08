@@ -1,0 +1,23 @@
+ls - to listing files in the present directory
+cd - to change the directory
+mv - to move a file
+cp - to copy the file
+rm - to remove the file
+mkdir - for making the directory
+rmdir - remove the directory
+nano - to change the file contents and also used for creating files
+gedit - to change in file
+touch - to create a blank file
+top - to open the task manager
+cmp - to compare the file
+cat - to read content of the file
+wc - Check the lines word count and characters in a file using different options
+pwd - print working direrectory
+who - shows the user who is login
+wget - download using link
+sudo su - to access the root
+git clone - to download the github repository
+chmod - Changes the mode or permissions of a file
+chown - Changes the ownership of a file or directory
+df - Displays the amount of available disk space
+man - shows the manual
