@@ -21,3 +21,6 @@ chmod - Changes the mode or permissions of a file
 chown - Changes the ownership of a file or directory
 df - Displays the amount of available disk space
 man - shows the manual
+
+
+##this is comment
